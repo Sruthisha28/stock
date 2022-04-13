@@ -5,14 +5,6 @@ const express = require('express');
 
 const dataService = require('./dataservice')
 
-
-
-
-
-
-
-
-
 const Stock = require('./liveSearch');
 
 //import mongoose
